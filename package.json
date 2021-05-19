@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Biblioteca de curso JS na prática",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZeTheGreat/testStudyTDD.git"
+  },
+  "keywords": [
+    "TDD",
+    "STUDY"
+  ],
+  "author": "José Roberto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZeTheGreat/testStudyTDD/issues"
+  },
+  "homepage": "https://github.com/ZeTheGreat/testStudyTDD#readme"
+}

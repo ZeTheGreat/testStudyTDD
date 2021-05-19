@@ -15,9 +15,10 @@
     "STUDY"
   ],
   "author": "José Roberto",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ZeTheGreat/testStudyTDD/issues"
   },
-  "homepage": "https://github.com/ZeTheGreat/testStudyTDD#readme"
+  "homepage": "https://github.com/ZeTheGreat/testStudyTDD#readme",
+
 }
